@@ -27,3 +27,7 @@ The original AND pdf format versions of documents have been included. They are i
 [https://splendorous-parfait-0535b5.netlify.app/](https://splendorous-parfait-0535b5.netlify.app/)
 
 The docs file willcontain the markdown or word document versions, as well as the pdf, of 4 different documents. 
+
+## 28/06/23 Submission
+
+Content moved all into one file, "./doc.pdf" - still the same content (expect for the added sections aka nothing has been excluded from this document)
